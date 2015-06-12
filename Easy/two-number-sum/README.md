@@ -26,7 +26,7 @@ targetSum = 10
 
 ---
 
-## Hints
+## **Hints**
 
 1. Try using two for loops to sum all possible pairs of number in the input array. What are the time and space implications of this approach?
 
