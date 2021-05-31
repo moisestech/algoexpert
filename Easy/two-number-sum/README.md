@@ -7,6 +7,23 @@
 
 ---
 
+## Sample
+
+### Input
+
+```python
+array = [3, 5, -4, 8, 11, 1, -1, 6]
+targetSum = 10
+```
+
+### Output
+
+```python
+[-1, 11] # the numbers could be in reverse order
+```
+
+---
+
 ## Hints
 
 1. Try using two for loops to sum all possible pairs of number in the input array. What are the time and space implications of this approach?
