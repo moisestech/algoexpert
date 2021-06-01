@@ -1,5 +1,7 @@
 // SOLUTION 1
-// O(n^2) time | O(1) space
+// Two Number Sum
+// Complexity: O(n^2) time | O(1) space
+
 function twoNumberSum(array, targetSum) {
   const arrLen = array.length;
   for (let i = 0; i < arrLen - 1; i++) {
