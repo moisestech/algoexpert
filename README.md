@@ -6,5 +6,5 @@ with Time and Space Complexity Analysis
 in JavaScript | TypeScript | Python
 
 🟢 📁 [**Easy**](Easy/README.md)  
-🟡 📁 **Medium**  
-🔴 📁 **Hard**
+🟡 📁 [**Medium**]()
+🔴 📁 [**Hard**]()
