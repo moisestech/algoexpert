@@ -1,4 +1,5 @@
 // SOLUTION 1
+// Validate Subsequence
 // O(n) time | O(1) space - where n is the length of the array
 function isValidSubsequence(array, sequence) {
   let arrIdx = 0;
