@@ -1,6 +1,9 @@
 # SOLUTION 1
 # Two Number Sum
-# Complexity: O(n^2) time | O(1) space
+
+# Complexity
+# Average:  Time: O(n^2) | Space: O(1)
+# Worst:    Time: | Space:
 
 def twoNumberSum(array, targetSum):
     for i in range(len(array) - 1):
