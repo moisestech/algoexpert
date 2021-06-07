@@ -1,6 +1,10 @@
 # SOLUTION 1
 # Validate Subsequence
-# O(n) time | O(1) space - where n is the length of the array
+
+# Complexity
+# Average:  Time: O(n)  | Space: O(1)
+# Worst:    Time:       | Space:
+# where n is the length of the array
 
 def isValidSubsequence(array, sequence):
   arrIdx = 0
