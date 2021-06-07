@@ -1,5 +1,10 @@
 // SOLUTION 1
 // Two Number Sum
+
+// Complexity
+// Average:  Time: | Space:
+// Worst:    Time: | Space:
+
 // Complexity: O(n^2) time | O(1) space
 
 function twoNumberSum(array, targetSum) {
