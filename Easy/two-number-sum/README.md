@@ -42,19 +42,20 @@ O(n) time | O(n) space - where n is the length of the input array.
 
 ---
 
-## Solution
+## Solution 1
 
-**Solution 1**
-[JavaScript]()
-[TypeScript]()
-[Python]()
+- [JavaScript]()
+- [TypeScript]()
+- [Python]()
 
-**Solution 2**
-[JavaScript]()
-[TypeScript]()
-[Python]()
+## Solution 2
 
-**Solution 3**
-[JavaScript]()
-[TypeScript]()
-[Python]()
+- [JavaScript]()
+- [TypeScript]()
+- [Python]()
+
+## Solution 3
+
+- [JavaScript]()
+- [TypeScript]()
+- [Python]()
