@@ -15,3 +15,24 @@
 - [JavaScript]()
 - [TypeScript]()
 - [Python]()
+
+---
+
+## Time Space Complexity
+
+## Recursive
+
+### Time
+
+- where n is the number of nodes in the Binary Tree
+- where traversing through every node in the Binary Tree
+- we are adding the depth, recursive function calls, pushing, popping values, constant time operations.
+
+### Space
+
+- O(h), is the height of the Binary Tree
+- The maximum number of function calls in the callstack
+- is going to be the height and depth of the binary tree
+- h is the height of the Binary Tree
+
+## Iterative
