@@ -6,9 +6,9 @@
 
 ## Solution 1
 
-- [JavaScript]()
-- [TypeScript]()
-- [Python]()
+- [JavaScript](./solution_1/generate-document.js)
+- [TypeScript](./solution_1/generate-document.ts)
+- [Python](./solution_1/generate-document.py)
 
 ## Solution 2
 
