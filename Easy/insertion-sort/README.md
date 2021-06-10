@@ -6,9 +6,9 @@
 
 ## Solution 1
 
-- [JavaScript]()
-- [TypeScript]()
-- [Python]()
+- [JavaScript](./solution_1/insertion-sort.js)
+- [TypeScript](./solution_1/insertion-sort.ts)
+- [Python](./solution_1/insertion-sort.py)
 
 ## Solution 2
 
