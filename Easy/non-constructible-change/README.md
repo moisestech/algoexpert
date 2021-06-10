@@ -39,16 +39,27 @@ The reason for this is that, if you're in the second scenario, you can create al
 
 ---
 
+## Time Space Complexity
+
 Optimal Space &amp; Time Complexity
-O(n log n) time | O(1) space - where n is the number of coins
+
+### Time
+
+O(n log n)
+
+### Space
+
+O(1) space
+
+where n is the number of coins
 
 ---
 
 ## Solution 1
 
-- [JavaScript]()
-- [TypeScript]()
-- [Python]()
+- [JavaScript](./solution_1/non-constructible-change.js)
+- [TypeScript](./solution_1/non-constructible-change.ts)
+- [Python](./solution_1/non-constructible-change.py)
 
 ## Solution 2
 
