@@ -6,9 +6,9 @@
 
 ## Solution 1
 
-- [JavaScript]()
-- [TypeScript]()
-- [Python]()
+- [JavaScript](./solution_1/minimum-waiting-time.js)
+- [TypeScript](./solution_1/minimum-waiting-time.ts)
+- [Python](./solution_1/minimum-waiting-time.py)
 
 ## Solution 2
 
