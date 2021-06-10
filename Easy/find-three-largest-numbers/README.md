@@ -6,9 +6,9 @@
 
 ## Solution 1
 
-- [JavaScript]()
-- [TypeScript]()
-- [Python]()
+- [JavaScript](./solution_1/find-three-largest-numbers.js)
+- [TypeScript](./solution_1/find-three-largest-numbers.ts)
+- [Python](./solution_1/find-three-largest-numbers.py)
 
 ## Solution 2
 
