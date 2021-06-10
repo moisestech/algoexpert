@@ -6,9 +6,9 @@
 
 ## Solution 1
 
-- [JavaScript]()
-- [TypeScript]()
-- [Python]()
+- [JavaScript](./solution_1/nth-fibonacci.js)
+- [TypeScript](./solution_1/nth-fibonacci.ts)
+- [Python](./solution_1/nth-fibonacci.py)
 
 ## Solution 2
 
