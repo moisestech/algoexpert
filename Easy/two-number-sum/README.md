@@ -44,9 +44,9 @@ O(n) time | O(n) space - where n is the length of the input array.
 
 ## Solution 1
 
-- [JavaScript]()
-- [TypeScript]()
-- [Python]()
+- [JavaScript](./solution_1/two-number-sum.js)
+- [TypeScript](./solution_1/two-number-sum.ts)
+- [Python](./solution_1/two-number-sum.py)
 
 ## Solution 2
 
