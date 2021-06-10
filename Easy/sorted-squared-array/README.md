@@ -40,9 +40,9 @@ O(n) time | O(n) space - where n is the length of the input array.
 
 ## Solution 1
 
-- [JavaScript]()
-- [TypeScript]()
-- [Python]()
+- [JavaScript](./solution_1/sorted-squared-array.js)
+- [TypeScript](./solution_1/sorted-squared-array.ts)
+- [Python](./solution_1/sorted-squared-array.py)
 
 ## Solution 2
 
