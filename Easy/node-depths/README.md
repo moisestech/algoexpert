@@ -6,9 +6,9 @@
 
 ## Solution 1
 
-- [JavaScript]()
-- [TypeScript]()
-- [Python]()
+- [JavaScript](./solution_1/node-depths.js)
+- [TypeScript](./solution_1/node-depths.ts)
+- [Python](./solution_1/node-depths.py)
 
 ## Solution 2
 
