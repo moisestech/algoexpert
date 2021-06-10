@@ -6,9 +6,9 @@
 
 ## Solution 1
 
-- [JavaScript]()
-- [TypeScript]()
-- [Python]()
+- [JavaScript](./solution_1/first-non-repeating-character.js)
+- [TypeScript](./solution_1/first-non-repeating-character.ts)
+- [Python](./solution_1/first-non-repeating-character.py)
 
 ## Solution 2
 
