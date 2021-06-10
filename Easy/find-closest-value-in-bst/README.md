@@ -6,9 +6,9 @@
 
 ## Solution 1
 
-- [JavaScript]()
-- [TypeScript]()
-- [Python]()
+- [JavaScript](./solution_1/find-closest-value-in-bst.js)
+- [TypeScript](./solution_1/find-closest-value-in-bst.ts)
+- [Python](./solution_1/find-closest-value-in-bst.py)
 
 ## Solution 2
 
