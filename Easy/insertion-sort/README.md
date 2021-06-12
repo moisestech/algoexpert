@@ -4,6 +4,16 @@
 
 ---
 
+## **Hints**
+
+1. Hint
+
+2. Hint
+
+3. Hint
+
+---
+
 ## Solution 1
 
 - [JavaScript](./solution_1/insertion-sort.js)
