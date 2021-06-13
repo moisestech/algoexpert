@@ -1,6 +1,12 @@
 # Palindrome Check
 
 [**Link**](https://www.algoexpert.io/questions/Palindrome%20Check)
+Difficulty: Easy 🟢
+Category:
+
+---
+
+## Problem
 
 ---
 
