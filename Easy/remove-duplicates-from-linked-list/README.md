@@ -1,6 +1,12 @@
 # Remove Duplicates from Linked List
 
 [**Link**](https://www.algoexpert.io/questions/Remove%20Duplicates%20From%20Linked%20List)
+Difficulty: Easy 🟢
+Category:
+
+---
+
+## Problem
 
 ---
 
