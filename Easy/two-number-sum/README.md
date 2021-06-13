@@ -1,6 +1,12 @@
 # Two Number Sum
 
 [**Link**](https://www.algoexpert.io/questions/Two%20Number%20Sum)
+Difficulty: Easy 🟢
+Category:
+
+---
+
+## Problem
 
 - Write a function that takes in a non-empty array of distinct integers and an integer representing a target sum.
 - If any two number in the input array sum, the function should return an empty array.
@@ -36,12 +42,6 @@ targetSum = 10
 
 ---
 
-## Optimal Space & Time Complexity
-
-O(n) time | O(n) space - where n is the length of the input array.
-
----
-
 ## Solution 1
 
 - [JavaScript](./solution_1/two-number-sum.js)
@@ -54,8 +54,13 @@ O(n) time | O(n) space - where n is the length of the input array.
 - [TypeScript]()
 - [Python]()
 
-## Solution 3
+---
 
-- [JavaScript]()
-- [TypeScript]()
-- [Python]()
+## Optimal Time & Space Complexity
+
+**Time:** `O(n)`  
+**Space:** `O(n)`
+
+Where **n** is the length of the input array.
+
+<img src="../../assets/big-o-complexity-chart.jpg" style="width: 600px"/>
