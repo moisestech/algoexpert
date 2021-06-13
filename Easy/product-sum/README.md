@@ -1,6 +1,12 @@
 # Product Sum
 
 [**Link**]()
+Difficulty: Easy 🟢
+Category:
+
+---
+
+## Problem
 
 ---
 
