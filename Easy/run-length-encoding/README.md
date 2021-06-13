@@ -1,6 +1,12 @@
 # Run Length Encoding
 
 [**Link**](https://www.algoexpert.io/questions/Run-Length%20Encoding)
+Difficulty: Easy 🟢
+Category:
+
+---
+
+## Problem
 
 ---
 
