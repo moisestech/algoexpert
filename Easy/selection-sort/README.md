@@ -1,6 +1,12 @@
 # Selection Sort
 
 [**Link**](https://www.algoexpert.io/questions/Selection%20Sort)
+Difficulty: Easy 🟢
+Category:
+
+---
+
+## Problem
 
 ---
 
