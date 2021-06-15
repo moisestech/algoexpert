@@ -1,6 +1,12 @@
 # Generate Document
 
 [**Link**](https://www.algoexpert.io/questions/Generate%20Document)
+Difficulty: Easy 🟢
+Category:
+
+---
+
+## Problem
 
 ---
 
