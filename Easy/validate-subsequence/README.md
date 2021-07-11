@@ -23,7 +23,7 @@ true
 
 ---
 
-## Hints
+## **Hints**
 
 1. You can solve this question by iterating through the main input array once.
 
